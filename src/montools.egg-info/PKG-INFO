@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: montools
+Version: 0.1.0
+Summary: ML Mondays Tools
+Home-page: UNKNOWN
+Author: datascone
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >3.5, <4
+Description-Content-Type: text/markdown
